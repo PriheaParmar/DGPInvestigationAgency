@@ -97,6 +97,10 @@
         justify-content: space-around;
         align-items: center;
     }
+    .quote:hover{
+        background: #e2a415;
+        cursor: pointer;
+    }
     .sections { /*-----page section name container */
         font-family: "gabarito";
         width: 50%;
@@ -153,4 +157,7 @@
         border-radius: 10px;
     }
 
-
+.text-1-4:hover{
+        background: #e2a415;
+        cursor: pointer;
+    }
